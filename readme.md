@@ -1,4 +1,4 @@
-## O que irei encontrar aqui ?
+## O que encontrarei aqui ?
 - [Introdução Python](./src/python/main.py)
 - [Introdução Pandas](./src/pandas/)
 - [Introdução NumPy](./src/numpy/)
