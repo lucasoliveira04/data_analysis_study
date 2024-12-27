@@ -37,11 +37,3 @@ Através dos tópicos abordados, você aprenderá desde estruturas de dados até
   Como tratar exceções em Python e evitar que o programa quebre.
 
 ---
-
-## Como usar este guia?
-
-Este guia é estruturado para que você possa facilmente localizar os conceitos que mais precisa no momento. Comece explorando os tópicos conforme sua necessidade, e, à medida que avançar, você perceberá que esses conceitos são fundamentais para uma análise de dados eficaz em Python. 
-
-### Exemplos de uso
-
-Cada conceito vem acompanhado de exemplos práticos, mostrando como utilizá-los no seu dia a dia de programação. Tente rodar os exemplos e adaptá-los para seus próprios projetos!
