@@ -1,0 +1,11 @@
+Produto,Categoria,Estoque_Inicial,Estoque_Atual,Preco_Unitario,Fornecedor
+Produto_1,Eletrônicos,104,42,158.74,Fornecedor_1
+Produto_2,Eletrônicos,160,33,212.75,Fornecedor_2
+Produto_3,Alimentos,199,8,141.75,Fornecedor_3
+Produto_4,Alimentos,118,25,88.99,Fornecedor_4
+Produto_5,Eletrônicos,105,1,249.35,Fornecedor_5
+Produto_6,Alimentos,82,8,243.84,Fornecedor_6
+Produto_7,Alimentos,85,8,214.52,Fornecedor_7
+Produto_8,Alimentos,197,39,96.2,Fornecedor_8
+Produto_9,Roupas,130,16,185.26,Fornecedor_9
+Produto_10,Roupas,158,0,121.07,Fornecedor_10
