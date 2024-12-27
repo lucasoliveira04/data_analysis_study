@@ -30,23 +30,11 @@ Através dos tópicos abordados, você aprenderá desde estruturas de dados até
 - **Tuplas (Tuples):**  
   Estruturas de dados imutáveis em Python e como usá-las.
 
-- **Sets (Conjuntos):**  
-  Coleções não ordenadas e sem duplicatas, úteis para operações de conjunto.
-
 - **Orientação a Objetos (OOP):**  
   Fundamentos de programação orientada a objetos: classes, objetos, herança e polimorfismo.
 
-- **Manipulação de Arquivos:**  
-  Como ler e escrever arquivos com Python de forma simples e eficiente.
-
-- **Trabalhando com DataFrames (Pandas):**  
-  Introdução ao Pandas para análise de dados: criação de DataFrames e operações básicas.
-
 - **Tratamento de Erros com `try` e `except`:**  
   Como tratar exceções em Python e evitar que o programa quebre.
-
-- **Manipulação de Data e Hora (módulo `datetime`):**  
-  Como trabalhar com datas e horários em Python, usando o módulo `datetime`.
 
 ---
 
