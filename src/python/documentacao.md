@@ -2,7 +2,7 @@
 
 ## O que encontrarei aqui?
 
-Este guia fornece uma introdução abrangente aos conceitos fundamentais de Python, especialmente para quem está começando a trabalhar com análise de dados. Através dos tópicos abordados, você aprenderá desde estruturas de dados até manipulação de arquivos e trabalho com bibliotecas poderosas para análise de dados, como **Pandas**. 
+Através dos tópicos abordados, você aprenderá desde estruturas de dados até manipulação de arquivos e trabalho com bibliotecas poderosas para análise de dados. 
 
 ### Estrutura da Documentação:
 
