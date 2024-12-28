@@ -1,11 +1,6 @@
 ## O que encontrarei aqui ?
-- [Introdução Python](./src/python/main.py)
-- [Introdução Pandas](./src/pandas/)
+- [Introdução Python](https://github.com/lucasoliveira04/review_python/tree/master/src/python)
+- [Introdução Pandas](https://github.com/lucasoliveira04/review_python/tree/master/src/pandas)
 - [Introdução NumPy](./src/numpy/)
 - [Introdução SQL](./src/sql/)
 - [Como montar um relatorio](./src/relatorios/)
-
-### Csv's e planilhas que estão sendo utilizados 
-
-[xlsx](./src/xlsx/)
-[csv](./src/csv/)
